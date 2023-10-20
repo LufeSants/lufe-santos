@@ -1,8 +1,6 @@
 # Olá 👋, sou o Lufe Santos
 ### Apaixonado por dois universos distintos, a computação e o futebol, minha vida é uma emocionante mescla de emoções e habilidades.
 
-![myImage](https://media.tenor.com/3v_8WlW7JWUAAAAC/kk.gif)
-
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/lufe-santos/)
 
@@ -12,6 +10,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
 ![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=c-sharp&logoColor=67217a)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=005C84)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Windows](https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lufe-santos&theme=transparent&bg_color=0d1117&how_icons=true&icon_color=fff8&title_color=1863f7&text_color=FFF&hide_title=true&hide=stars)
